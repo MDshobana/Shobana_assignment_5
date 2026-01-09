@@ -4,14 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Component Name: Addstudent 
-Form to fillout the student information
+Form to fillout the student information \
 Add the student into the local storage
 
 ## Component Name: Addstudent 
-display the student from the local storage
-displays the number of students
-filter the studens by name
-display the student card via react-bootsrtap
+display the student from the local storage \
+displays the number of students \
+filter the studens by name \
+display the student card via react-bootsrtap \
 
 
 ## Available Scripts
